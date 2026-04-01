@@ -1,0 +1,18 @@
+*.ldb
+*.libPreview
+*.SchDocPreview
+*.lnk
+*archive*/
+*00_IntLibSource*/
+For IntLib.DbLib
+For IntLib_baojun.DbLib
+Components/WE - Custom Magnetics.mdb
+WE - Custom Magnetics.DbLib
+*.LOG
+00 - New Parts.DbLib
+Components/00 - New Parts.mdb
+*CN3775WE*.mdb
+
+IntLib.DbLib
+Symbols/Transformer/Custom Magnetic.SchLib
+
