@@ -101,7 +101,7 @@ GenerateClassCluster=0
 DocumentUniqueId=UCNSSHVT
 
 [Document4]
-DocumentPath=Drive_Power.SchDoc
+DocumentPath=Mosfet_Drive.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
